@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@vituum/vite-plugin-nunjucks": "^2.0.1",
     "vite": "^8.3.0",
     "vituum": "^2.0.2"
   }
